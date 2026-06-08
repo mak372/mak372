@@ -8,7 +8,7 @@ I care about two things: **agents that actually work in production** (not just d
 
 ## What I'm building
 
-**[Verilog Code Converter using LLM](https://github.com/mak372/verilog-llm)** : Fine-tuned an LLM with LoRA + GRPO to convert intermediate Verilog representations into functionally equivalent Verilog. Used Yosys equivalence checking as a verifiable reward signal (RLVR). 95% functional equivalence pass rate.
+**[Verilog Code Converter using LLM](https://github.com/mak372/Verilog-Agent-Format)** : Fine-tuned an LLM with LoRA + GRPO to convert intermediate Verilog representations into functionally equivalent Verilog. Used Yosys equivalence checking as a verifiable reward signal (RLVR). 95% functional equivalence pass rate.
 
 **[Agentic AI Incident Response Platform](https://github.com/mak372/Incident-autopilot)** : Multi-agent incident resolution using LangGraph with stateful, resumable workflows, human-in-the-loop approvals, and full LLM observability via LangSmith.
 
