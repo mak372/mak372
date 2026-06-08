@@ -8,13 +8,13 @@ I care about two things: **agents that actually work in production** (not just d
 
 ## What I'm building
 
-**[Verilog Code Converter using LLM](https://github.com/mak372/verilog-llm)** — Fine-tuned an LLM with LoRA + GRPO to convert intermediate Verilog representations into functionally equivalent Verilog. Used Yosys equivalence checking as a verifiable reward signal (RLVR). 95% functional equivalence pass rate.
+**[Verilog Code Converter using LLM](https://github.com/mak372/verilog-llm)** : Fine-tuned an LLM with LoRA + GRPO to convert intermediate Verilog representations into functionally equivalent Verilog. Used Yosys equivalence checking as a verifiable reward signal (RLVR). 95% functional equivalence pass rate.
 
-**[Agentic AI Incident Response Platform](https://github.com/mak372/Incident-autopilot)** — Multi-agent incident resolution using LangGraph with stateful, resumable workflows, human-in-the-loop approvals, and full LLM observability via LangSmith.
+**[Agentic AI Incident Response Platform](https://github.com/mak372/Incident-autopilot)** : Multi-agent incident resolution using LangGraph with stateful, resumable workflows, human-in-the-loop approvals, and full LLM observability via LangSmith.
 
-**[Microservice Contract Validator](https://github.com/mak372/microservice-contract-validator)** — A contract-validating reverse proxy in Go that intercepts live HTTP traffic and detects JSON schema violations in real time. Zero code changes required to adopt.
+**[Microservice Contract Validator](https://github.com/mak372/microservice-contract-validator)** : A contract-validating reverse proxy in Go that intercepts live HTTP traffic and detects JSON schema violations in real time. Zero code changes required to adopt.
 
-**[Log Analysis Platform](https://github.com/mak372/Log_Analyzer)** — Full-stack platform (React + Flask + PostgreSQL) with async log processing via Celery/Redis, Prometheus metrics, and Grafana dashboards.
+**[Log Analysis Platform](https://github.com/mak372/Log_Analyzer)** : Full-stack platform (React + Flask + PostgreSQL) with async log processing via Celery/Redis, Prometheus metrics, and Grafana dashboards.
 
 ---
 
