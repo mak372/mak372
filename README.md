@@ -24,7 +24,7 @@ I care about two things: **agents that actually work in production** (not just d
 Languages:     Python · Go · Java · JavaScript · C/C++
 Backend:       FastAPI · Spring Boot · Django · Redis
 Databases:     PostgreSQL · MongoDB · MySQL
-AI/ML:         LangGraph · LangSmith · LoRA · GRPO · vLLM
+AI/ML:         LangGraph · LangSmith · LoRA · GRPO
 Infra:         Docker · Kubernetes · AWS · Linux
 ```
 
