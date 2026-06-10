@@ -4,11 +4,13 @@ MS Computer Science @ UC Santa Cruz | Building at the intersection of AI agents 
 
 I care about two things: **agents that actually work in production** (not just demos) and **systems that hold up at scale**. Most of my projects sit at that boundary.
 
+Looking for new grad SWE roles in AI agents, LLM infra, and backend systems. Open to SF Bay Area roles starting Summer/Fall 2026.
+
 ---
 
 ## What I'm building
 
-**[Verilog Code Converter using LLM](https://github.com/mak372/Verilog-Agent-Format)** : Fine-tuned an LLM with LoRA + GRPO to convert intermediate Verilog representations into functionally equivalent Verilog. Used Yosys equivalence checking as a verifiable reward signal (RLVR). 95% functional equivalence pass rate.
+**[Verilog Code Converter using LLM](https://github.com/mak372/Verilog-Agent-Format)** : Fine-tuned an LLM with LoRA + GRPO to convert intermediate Verilog representations into functionally equivalent Verilog. Used Yosys equivalence checking as a verifiable reward signal (RLVR). 88.4% functional equivalence pass rate after iterative refinement.
 
 **[Agentic AI Incident Response Platform](https://github.com/mak372/Incident-autopilot)** : Multi-agent incident resolution using LangGraph with stateful, resumable workflows, human-in-the-loop approvals, and full LLM observability via LangSmith.
 
@@ -24,7 +26,7 @@ I care about two things: **agents that actually work in production** (not just d
 Languages:     Python · Go · Java · JavaScript · C/C++
 Backend:       FastAPI · Spring Boot · Django · Redis
 Databases:     PostgreSQL · MongoDB · MySQL
-AI/ML:         LangGraph · LangSmith · LoRA · GRPO
+AI/ML:         LangGraph · LangSmith · LoRA · GRPO · vLLM
 Infra:         Docker · Kubernetes · AWS · Linux
 ```
 
@@ -38,4 +40,4 @@ Infra:         Docker · Kubernetes · AWS · Linux
 
 ## Where to find me
 
-📧 mbhalera@ucsc.edu · [LinkedIn](https://www.linkedin.com/in/makarand-bhalerao/) · Based in Sunnyvale, CA
+📧 mbhalera@ucsc.edu · [LinkedIn](https://www.linkedin.com/in/makarand-bhalerao/) · Based in Santa Cruz / Sunnyvale, CA
