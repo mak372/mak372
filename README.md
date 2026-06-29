@@ -18,6 +18,8 @@ Looking for new grad SWE roles in AI agents, LLM infra, and backend systems. Ope
 
 **[Log Analysis Platform](https://github.com/mak372/Log_Analyzer)** : Full-stack platform (React + Flask + PostgreSQL) with async log processing via Celery/Redis, Prometheus metrics, and Grafana dashboards.
 
+**[Context Aware Agent Memory System](https://github.com/mak372/Context-Aware-Agent-Memory-System)** : Proactive memory management for LLM agents that continuously validates which memories actually influence reasoning and demotes the ones that don't.
+
 ---
 
 ## Stack
