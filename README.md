@@ -31,4 +31,4 @@ Infra: Docker · Kubernetes · AWS · Linux
 **Jio Platforms** (Oct 2023–Jul 2024) : Built Spring Boot microservices processing 2M daily Aadhaar verifications. Led Kubernetes deployment reducing peak latency 7% and standardizing microservice architecture.
 
 ---
-📧 mbhalera@ucsc.edu · LinkedIn · GitHub
+📧 mbhalera@ucsc.edu | [LinkedIn](https://www.linkedin.com/in/makarand-bhalerao/)
