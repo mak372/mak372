@@ -20,11 +20,16 @@ Looking for new grad SWE roles in AI agents, LLM infrastructure, and backend sys
 
 ---
 ## Stack
-Languages: Python · Go · Java · JavaScript · C/C++
-Backend: FastAPI · Spring Boot · Django · Redis
-Databases: PostgreSQL · MongoDB · MySQL
-AI/ML: LangGraph · LangSmith · LoRA · GRPO · vLLM
-Infra: Docker · Kubernetes · AWS · Linux
+
+**Languages:** Python · Go · Java · JavaScript · C/C++
+
+**Backend:** FastAPI · Spring Boot · Django · Redis
+
+**Databases:** PostgreSQL · MongoDB · MySQL
+
+**AI/ML:** LangGraph · LangSmith · LoRA · GRPO · vLLM
+
+**Infra:** Docker · Kubernetes · AWS · Linux
 
 ---
 ## Previously
