@@ -12,7 +12,7 @@ Looking for new grad SWE roles in AI agents, LLM infrastructure, and backend sys
 
 **[Self-Correcting Verilog Repair Agent](https://github.com/mak372/Verilog-Agent-Format)** : Built an LLM fine-tuning pipeline that solves a real hardware engineering problem: automating Verilog code generation and verification. Used Yosys formal verification as a reward signal (RLVR), hitting 88.4% functional equivalence. Now used by PhD researchers at UCSC's MASC Lab to accelerate chip design and EDA workflows. Why it matters: Without this, hardware engineers manually decode intermediate Verilog representations a slow, error-prone bottleneck. This tool eliminates that entirely.
 
-**[Context Aware Agent Memory System](https://github.com/mak372/Context-Aware-Agent-Memory-System)** : Proactive memory management for LLM agents using ChromaDB + probe-based retention scoring. 84.7% token savings, 100% retrieval recall at turn 25. Why it matters: Production agents need memory efficiency without losing reasoning quality.
+**[Hierarchical LLM Memory System](https://github.com/mak372/Context-Aware-Agent-Memory-System)** : Proactive memory management for LLM agents using ChromaDB + probe-based retention scoring. 84.7% token savings, 100% retrieval recall at turn 25. Why it matters: Production agents need memory efficiency without losing reasoning quality.
 
 **[Microservice Contract Validator](https://github.com/mak372/microservice-contract-validator)** : Contract-validating reverse proxy in Go that intercepts live HTTP traffic and detects JSON schema violations in real time. Zero code changes to adopt. Why it matters: Production infrastructure that doesn't require developer buy-in.
 
