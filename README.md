@@ -27,13 +27,13 @@ Looking for new grad SWE roles in AI agents, LLM infrastructure, and backend sys
 
 **Databases:** PostgreSQL · MongoDB · MySQL
 
-**AI/ML:** LangGraph · LangSmith · LoRA · GRPO · vLLM
+**AI/ML:** LangGraph · LangSmith · LoRA · GRPO 
 
 **Infra:** Docker · Kubernetes · AWS · Linux
 
 ---
 ## Previously
-**Jio Platforms** (Oct 2023–Jul 2024) : Built Spring Boot microservices processing 2M daily Aadhaar verifications. Led Kubernetes deployment reducing peak latency 7% and standardizing microservice architecture.
+**Jio Platforms** (Oct 2023–Jul 2024) : Built Spring Boot microservices for eKYC workflows serving 500K+ users, and led migration of legacy monolithic services to modular microservices supporting 2M daily API requests. Containerized applications with Docker and wrote Kubernetes deployment configuration.
 
 ---
 📧 mbhalera@ucsc.edu | [LinkedIn](https://www.linkedin.com/in/makarand-bhalerao/)
